@@ -1,0 +1,3 @@
+[submodule "EFI/refind/themes/rEFInd-minimal-black"]
+	path = EFI/refind/themes/rEFInd-minimal-black
+	url = https://github.com/andersfischernielsen/rEFInd-minimal-black
