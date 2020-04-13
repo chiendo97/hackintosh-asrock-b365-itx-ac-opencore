@@ -199,6 +199,8 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>shikigva</key>
+				<integer>80</integer>
 				<key>AAPL,ig-platform-id</key>
 				<data>AwCSPg==</data>
 				<key>framebuffer-patch-enable</key>
@@ -604,14 +606,14 @@
 		</array>
 		<key>Boot</key>
 		<dict>
+			<key>ConsoleAttributes</key>
+			<integer>0</integer>
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>HideSelf</key>
 			<true/>
-			<key>ConsoleAttributes</key>
-			<integer>0</integer>
 			<key>PickerAttributes</key>
 			<integer>0</integer>
 			<key>PickerAudioAssist</key>
@@ -753,17 +755,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020327014NJG361H</string>
+			<string>C029469024NLNV91H</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D6TYFHX87</string>
+			<string>C02ZPDZ7JV3Q</string>
 			<key>SystemUUID</key>
-			<string>1BD38CC3-25D3-46AE-9E51-E97DC1239D42</string>
+			<string>87CF8A8E-A46B-4E0B-84B5-5717A0ECBA5A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
