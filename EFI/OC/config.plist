@@ -660,7 +660,7 @@
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>HideSelf</key>
-			<false/>
+			<true/>
 			<key>PickerAttributes</key>
 			<integer>0</integer>
 			<key>PickerAudioAssist</key>
