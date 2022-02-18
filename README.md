@@ -14,8 +14,8 @@ you.
 
 | Type     | Version |
 | :------- | :------ |
-| OpenCore | 0.7.4   |
-| MacOS    | 11.6    |
+| OpenCore | 0.7.8   |
+| MacOS    | 11.6.3  |
 
 ## Hardware
 
